@@ -1,13 +1,13 @@
 [
   {
-    "id": 1,
-    "title": "Classic White T-Shirt",
-    "description": "Essential cotton t-shirt with a comfortable fit and timeless design.",
-    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    "price": 24.99,
-    "rating": 4.8,
-    "category": "tops"
-  },
+  "id": 1,
+  "title": "Classic Navy Blazer",
+  "description": "Elegant navy blue blazer with a modern fit, perfect for formal and casual occasions.",
+  "image": "https://ibb.co.com/chLNHbKQ",
+  "price": 89.99,
+  "rating": 4.9,
+  "category": "outerwear"
+},
   {
     "id": 2,
     "title": "Black Graphic Tee",
